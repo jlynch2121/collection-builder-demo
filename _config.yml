@@ -41,7 +41,8 @@ metadata: psychiana-code4lib.csv
 # google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
-# ROBOTS EXCLUDE
+# Blocks Google indexing
+ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
 # noindex: true
