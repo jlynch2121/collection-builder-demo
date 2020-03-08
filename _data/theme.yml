@@ -20,7 +20,7 @@ carousel-height: 300
 featured-subjects: # separate by semi-colon(';')
 featured-subjects-max: 5 # set number of top subjects to display if auto generating
 # Same as subjects above. Leave blank for automatically generated locations. Or add locations you'd like to feature. For list see data/places.csv
-featured-locations: # separate by semi-colon(';')
+featured-locations: Moscow;Spokane # separate by semi-colon(';')
 featured-locations-max: 3 # set number of top locations to display if auto generating
 
 ##########
@@ -52,7 +52,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # LOCATIONS PAGE
 #
-locations-fields: Moscow;Spokane # set the field to be featured in the cloud
+locations-fields: location # set the field to be featured in the cloud
 locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
