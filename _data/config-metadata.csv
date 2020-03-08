@@ -2,13 +2,16 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date-is-approximate?,Date is approximate?
 description,Description,
+recipient,Recipient
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier
+related_publication,Related Pub
 type,Type,
 format,Format,
 rights,Rights,
